@@ -56,6 +56,15 @@ No JavaScript or frameworks were used as per assignment instructions.
 ![Final Output](output2.png)
 
 
+---
+
+## Live Website Link
+
+You can view the hosted version of the documentation website here:
+
+https://beastxchaitanya.github.io/mintlify-docs-clone-/
+
+
 
 ## Author
 
